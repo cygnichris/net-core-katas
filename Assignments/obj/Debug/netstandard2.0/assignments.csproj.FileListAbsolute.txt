@@ -1,0 +1,16 @@
+C:\Development\DotNetInterviewQuestions\assignments\bin\Debug\netstandard2.0\assignments.deps.json
+C:\Development\DotNetInterviewQuestions\assignments\bin\Debug\netstandard2.0\assignments.dll
+C:\Development\DotNetInterviewQuestions\assignments\bin\Debug\netstandard2.0\assignments.pdb
+C:\Development\DotNetInterviewQuestions\assignments\obj\Debug\netstandard2.0\assignments.csprojAssemblyReference.cache
+C:\Development\DotNetInterviewQuestions\assignments\obj\Debug\netstandard2.0\assignments.AssemblyInfoInputs.cache
+C:\Development\DotNetInterviewQuestions\assignments\obj\Debug\netstandard2.0\assignments.AssemblyInfo.cs
+C:\Development\DotNetInterviewQuestions\assignments\obj\Debug\netstandard2.0\assignments.dll
+C:\Development\DotNetInterviewQuestions\assignments\obj\Debug\netstandard2.0\assignments.pdb
+C:\Development\net-core-katas\Assignments\bin\Debug\netstandard2.0\assignments.deps.json
+C:\Development\net-core-katas\Assignments\bin\Debug\netstandard2.0\assignments.dll
+C:\Development\net-core-katas\Assignments\bin\Debug\netstandard2.0\assignments.pdb
+C:\Development\net-core-katas\Assignments\obj\Debug\netstandard2.0\assignments.csprojAssemblyReference.cache
+C:\Development\net-core-katas\Assignments\obj\Debug\netstandard2.0\assignments.AssemblyInfoInputs.cache
+C:\Development\net-core-katas\Assignments\obj\Debug\netstandard2.0\assignments.AssemblyInfo.cs
+C:\Development\net-core-katas\Assignments\obj\Debug\netstandard2.0\assignments.dll
+C:\Development\net-core-katas\Assignments\obj\Debug\netstandard2.0\assignments.pdb

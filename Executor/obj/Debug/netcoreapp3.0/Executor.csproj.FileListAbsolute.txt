@@ -1,0 +1,14 @@
+C:\Development\DotNetInterviewQuestions\Executor\obj\Debug\netcoreapp3.0\Executor.csprojAssemblyReference.cache
+C:\Development\DotNetInterviewQuestions\Executor\obj\Debug\netcoreapp3.0\Executor.AssemblyInfoInputs.cache
+C:\Development\DotNetInterviewQuestions\Executor\obj\Debug\netcoreapp3.0\Executor.AssemblyInfo.cs
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\Executor.exe
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\Executor.deps.json
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\Executor.runtimeconfig.json
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\Executor.runtimeconfig.dev.json
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\Executor.dll
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\Executor.pdb
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\assignments.dll
+C:\Development\DotNetInterviewQuestions\Executor\bin\Debug\netcoreapp3.0\assignments.pdb
+C:\Development\DotNetInterviewQuestions\Executor\obj\Debug\netcoreapp3.0\Executor.csproj.CopyComplete
+C:\Development\DotNetInterviewQuestions\Executor\obj\Debug\netcoreapp3.0\Executor.dll
+C:\Development\DotNetInterviewQuestions\Executor\obj\Debug\netcoreapp3.0\Executor.pdb
